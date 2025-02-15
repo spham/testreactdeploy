@@ -21,3 +21,12 @@ MIT
 ## Contact
 Sylvain PHAM
 Email: sylvain.pham@gmail.com
+
+## Scripts disponibles
+
+- `npm run dev` - Lance le serveur de développement
+- `npm run build` - Crée une version de production
+- `npm run start` - Lance la version de production
+- `npm run lint` - Vérifie le code avec ESLint
+
+## Structure du projet
